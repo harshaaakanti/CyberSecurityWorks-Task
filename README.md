@@ -1,5 +1,5 @@
 # CyberSecurityWorks-Task
-This is the program which is developed for the task which was given to me by CyberSecurityWorks Organisation.<br/>
+This is the program which was developed for the task which was given to me by CyberSecurityWorks Organisation.<br/>
 
 ***Note: Attached a Video for clear execution process.***<br/>
 
